@@ -27,7 +27,7 @@ const variants: Record<ButtonVariant, string> = {
     "bg-black-500 text-white-02 rounded-[16px] py-1 hover:bg-black-900",
 
   outline:
-    "border border-gray-100 bg-transparent text-black-900 hover:bg-gray-100",
+    "border border-gray-100 rounded-[8px] bg-transparent text-black-900 hover:bg-gray-100",
 
   ghost:
     "bg-transparent text-black-900 hover:bg-gray-100",
